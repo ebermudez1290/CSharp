@@ -1,0 +1,14 @@
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\SingletonPatternEx\bin\Debug\SingletonPatternEx.exe.config
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\SingletonPatternEx\bin\Debug\SingletonPatternEx.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\SingletonPatternEx\bin\Debug\SingletonPatternEx.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\SingletonPatternEx\obj\Debug\SingletonPatternEx.csprojResolveAssemblyReference.cache
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\SingletonPatternEx\obj\Debug\SingletonPatternEx.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\SingletonPatternEx\obj\Debug\SingletonPatternEx.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CPPprogs\ConsoleApplication1\SingletonPatternEx\obj\Debug\SingletonPatternEx.csproj.CoreCompileInputs.cache
+D:\Avantica\GitLab\c# patterns\SingletonPatternEx\bin\Debug\SingletonPatternEx.exe.config
+D:\Avantica\GitLab\c# patterns\SingletonPatternEx\bin\Debug\SingletonPatternEx.exe
+D:\Avantica\GitLab\c# patterns\SingletonPatternEx\bin\Debug\SingletonPatternEx.pdb
+D:\Avantica\GitLab\c# patterns\SingletonPatternEx\obj\Debug\SingletonPatternEx.csprojAssemblyReference.cache
+D:\Avantica\GitLab\c# patterns\SingletonPatternEx\obj\Debug\SingletonPatternEx.csproj.CoreCompileInputs.cache
+D:\Avantica\GitLab\c# patterns\SingletonPatternEx\obj\Debug\SingletonPatternEx.exe
+D:\Avantica\GitLab\c# patterns\SingletonPatternEx\obj\Debug\SingletonPatternEx.pdb
